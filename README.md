@@ -1,6 +1,6 @@
 # Exercise-02b-Bullets-And-Asteroids
 
-Exercise for MSCH-C220 Tommy McCullough
+Exercise for MSCH-C220 Tommy McCullough, nothing would save, im just turning in what i have, i need some help
 
 A user-controlled ship for a space-shooter game. Recently added the ability to shoot at asteroids. Created in Unity.
 
